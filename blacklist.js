@@ -2,7 +2,6 @@ exports.list = [
   'batalhatemfuturoautarquicas2017.pt',
   'bloodandco.com',
   'bnk48.com',
-  'centraldacorrida.com.br',
   'darwinapps.com',
   'estacaodaluz.com.br',
   'flowerwholesale.com',
